@@ -1,2 +1,6 @@
 this is file2.txt
+<<<<<<< HEAD
 created in remote repo
+=======
+created in local repo
+>>>>>>> 50bce72 (commited)
